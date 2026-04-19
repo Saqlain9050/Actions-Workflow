@@ -1,0 +1,13 @@
+name: Saqlain Abbas
+
+ on: 
+  push:
+    Branches: [ main ]
+
+ jobs:
+  demo:
+   runs-on: ubuntu-latest
+
+  steps: 
+   - name: Greetings
+     run: echo "Hello Kamil"
