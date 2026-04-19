@@ -1,7 +1,7 @@
 name: Saqlain Abbas
 
  on: 
-  push:
+   push:
     Branches: [ main ]
 
  jobs:
